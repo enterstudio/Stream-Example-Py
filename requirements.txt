@@ -8,3 +8,4 @@ sorl-thumbnail
 rollbar
 django-toolbelt
 dj-database-url
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
